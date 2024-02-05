@@ -3,7 +3,7 @@ Olá Sou RichardCastroH
 - 📖 Estudando Front-End
 - 🧑🏿‍💻 Evoluindo Dia após Dia!
 - ❄️ Prefiro o inverno!
-- ☕ Café E bom demais!
+- ☕ Café é bom demais!
 
 ##
 <div>
