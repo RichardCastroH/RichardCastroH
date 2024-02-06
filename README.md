@@ -16,6 +16,7 @@ Olá Sou RichardCastroH
 ##
 
 ![keyboard-type](https://github.com/RichardCastroH/RichardCastroH/assets/157628031/458fda0f-9885-4491-ba60-c7765107b4ba)
+HARDWORK!!!
 
 ##
 <div>
