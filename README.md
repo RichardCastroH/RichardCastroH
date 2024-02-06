@@ -14,7 +14,7 @@ Olá Sou RichardCastroH
 </div>
 
 #
-<a href= "https://tenor.com/pt-BR/view/jim-carrey-jim-carrey-typing-jim-carrey-typing-angry-jim-carrey-typing-fast-gif-22736994">
+<a href= "https://tenor.com/pt-BR/view/jim-carrey-jim-carrey-typing-jim-carrey-typing-angry-jim-carrey-typing-fast-gif-22736994"/a>
 
 ##
 <div>
