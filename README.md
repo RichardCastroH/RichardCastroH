@@ -14,9 +14,6 @@ Olá Sou RichardCastroH
 </div>
 
 ##
-<div class="tenor-gif-embed" data-postid="22736994" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/jim-carrey-jim-carrey-typing-jim-carrey-typing-angry-jim-carrey-typing-fast-gif-22736994">Jim Carrey Jim Carrey Typing GIF</a>from <a href="https://tenor.com/search/jim+carrey-gifs">Jim Carrey GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-##
 <div>
 <a href="https://github.com/RichardCastroH">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardCastroH&layout=compact&langs_count=7&theme=dracula"/>
