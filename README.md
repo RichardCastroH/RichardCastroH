@@ -13,9 +13,6 @@ Olá Sou RichardCastroH
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </div>
 
-#
-<img src= "https://tenor.com/pt-BR/view/jim-carrey-jim-carrey-typing-jim-carrey-typing-angry-jim-carrey-typing-fast-gif"/>
-
 ##
 <div>
 <a href="https://github.com/RichardCastroH">
