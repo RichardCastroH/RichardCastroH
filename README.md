@@ -15,7 +15,7 @@ Olá Sou RichardCastroH
 
 ##
 <div>
-  <a href="file:///C:/Users/TITO/OneDrive/Imagens/jim-carrey-jim-carrey-typing.gif"/a>
+  <img src=https://media1.tenor.com/m/DnMOr2rgYaQAAAAC/jim-carrey-jim-carrey-typing.gif>
 </div>
 
 ##
