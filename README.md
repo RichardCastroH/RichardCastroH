@@ -15,7 +15,7 @@ Olá Sou RichardCastroH
 
 ##
 <div>
-  <img src="file:///C:/Users/TITO/OneDrive/Imagens/jim-carrey-jim-carrey-typing.gif">
+  <a href="file:///C:/Users/TITO/OneDrive/Imagens/jim-carrey-jim-carrey-typing.gif"/a>
 </div>
 
 ##
