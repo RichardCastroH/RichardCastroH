@@ -1,7 +1,8 @@
 Olá Sou RichardCastroH
 
 ##
-[download](https://github.com/RichardCastroH/RichardCastroH/assets/157628031/85757397-c810-4a5a-86b0-2b4b95e7f5e5)
+![download](https://github.com/RichardCastroH/RichardCastroH/assets/157628031/eee9fedb-0743-489f-8ab0-44ef1a99cef1)
+
 
 ##
 - 📖 Estudando Front-End
