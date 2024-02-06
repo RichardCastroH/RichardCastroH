@@ -1,5 +1,9 @@
 Olá Sou RichardCastroH
 
+##
+![download](https://github.com/RichardCastroH/RichardCastroH/assets/157628031/85757397-c810-4a5a-86b0-2b4b95e7f5e5)
+
+##
 - 📖 Estudando Front-End
 - 🧑🏿‍💻 Evoluindo Dia após Dia!
 - ❄️ Prefiro o inverno!
