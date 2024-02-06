@@ -13,9 +13,9 @@ Olá Sou RichardCastroH
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </div>
 
-<div>
-  ![keyboard-type](https://github.com/RichardCastroH/RichardCastroH/assets/157628031/ae76119f-0dc0-4f31-8f27-b39dfc590ae2)
-</div>
+##
+
+![keyboard-type](https://github.com/RichardCastroH/RichardCastroH/assets/157628031/458fda0f-9885-4491-ba60-c7765107b4ba)
 
 ##
 <div>
